@@ -1,0 +1,4 @@
+La idea seria hacer un cubo de 10x10. Donde las caras estan representadas por un sudoku normal más una linea de color (4 por cara).
+Estas lineas son un desafio extra y la comunicación con las otras caras.
+Para poder hacerlo cubo preciso que una de esas lineas sea negra (ver imagen Sudoku_Variation_Negra.PNG). 
+Ergo el cubo va a estar formado por 2 negras 2 limpias (falta verificar)
